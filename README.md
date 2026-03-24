@@ -33,7 +33,7 @@ The market has diversified beyond one or two dominant players. Each platform has
 
 ---
 
-### Earlybird — Quality-First Curation
+### [Earlybird](https://earlybird.com) — Quality-First Curation
 
 Earlybird takes a fundamentally different approach than most platforms. Instead of listing every available deal, they **curate aggressively**. Not every tool makes the cut, even if the founder offers steep discounts. The focus is on product quality, company viability, and genuine value.
 
