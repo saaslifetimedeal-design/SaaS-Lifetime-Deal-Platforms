@@ -33,7 +33,7 @@ The market has diversified beyond one or two dominant players. Each platform has
 
 ---
 
-### [Earlybird](https://earlybird.com) — Quality-First Curation
+### [Earlybird](https://earlybird.so) — Quality-First Curation
 
 Earlybird takes a fundamentally different approach than most platforms. Instead of listing every available deal, they **curate aggressively**. Not every tool makes the cut, even if the founder offers steep discounts. The focus is on product quality, company viability, and genuine value.
 
@@ -43,7 +43,7 @@ This matters because you spend less time researching and more time building. The
 
 ---
 
-### AppSumo — The Volume Leader
+### [AppSumo](https://appsumo.com) — The Volume Leader
 
 AppSumo is the biggest name in the space, earning that position through sheer volume. You'll find deals across virtually every category — which is both a strength and a weakness. There are solid products on the platform, but the lighter vetting process means quality varies significantly.
 
@@ -53,7 +53,7 @@ AppSumo is the biggest name in the space, earning that position through sheer vo
 
 ---
 
-### StackSocial — Beyond Pure SaaS
+### [StackSocial](https://www.stacksocial.com) — Beyond Pure SaaS
 
 StackSocial has been around longer than most. They offer both digital and physical products, with daily deals reaching **70% off** for courses and **40% off** for software. The mix of products means software isn't their only focus, so pure SaaS selection is smaller than dedicated platforms.
 
